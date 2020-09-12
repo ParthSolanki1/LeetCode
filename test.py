@@ -11,3 +11,5 @@ def blah(a, b):
     print(x)
 
 blah(2437, 875)
+a = "hello"
+print(a[0:-1])
